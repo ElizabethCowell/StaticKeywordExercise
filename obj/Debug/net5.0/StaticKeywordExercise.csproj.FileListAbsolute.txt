@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.exe
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.deps.json
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.runtimeconfig.json
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.runtimeconfig.dev.json
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.dll
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\ref\StaticKeywordExercise.dll
+C:\Users\eholy\repos\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.pdb
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.csprojAssemblyReference.cache
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.AssemblyInfo.cs
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.dll
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\ref\StaticKeywordExercise.dll
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.pdb
+C:\Users\eholy\repos\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.genruntimeconfig.cache
